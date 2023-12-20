@@ -116,7 +116,7 @@ class _SignUpPageState extends State<SignUpPage> {
                     ),
                   ),
                   Padding(
-                    padding: const EdgeInsets.fromLTRB(80, 100, 40, 10),
+                    padding: const EdgeInsets.fromLTRB(80, 80, 40, 10),
                     child: Row(children: [
                       Text("Already registered? ", style: TextStyle(color: Colors.white,),
                         textAlign: TextAlign.center,),
